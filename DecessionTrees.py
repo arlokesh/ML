@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  3 20:27:55 2021
 
-@author: AG07256
+@author: Lokesh Rudraradhya
 """
 
 #Decission Trees Implementation
